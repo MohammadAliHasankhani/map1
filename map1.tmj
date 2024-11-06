@@ -514,6 +514,58 @@
                  "width":120,
                  "x":126.666666666667,
                  "y":298.666666666667
+                }, 
+                {
+                 "height":149.333333333333,
+                 "id":27,
+                 "name":"jitsitable",
+                 "properties":[
+                        {
+                         "name":"jitsiConfig",
+                         "type":"string",
+                         "value":"startWithAudioMuted: true"
+                        }, 
+                        {
+                         "name":"jitsiInterfaceConfig",
+                         "type":"string",
+                         "value":"DEFAULT_BACKGROUND\": \"#77ee77\""
+                        }, 
+                        {
+                         "name":"jitsiNoPrefix",
+                         "type":"bool",
+                         "value":true
+                        }, 
+                        {
+                         "name":"jitsiRoom",
+                         "type":"string",
+                         "value":"jitsiTable"
+                        }, 
+                        {
+                         "name":"jitsiRoomAdminTag",
+                         "type":"string",
+                         "value":"admin"
+                        }, 
+                        {
+                         "name":"jitsiTrigger",
+                         "type":"string",
+                         "value":"onaction"
+                        }, 
+                        {
+                         "name":"jitsiUrl",
+                         "type":"string",
+                         "value":"meet.jit.si"
+                        }, 
+                        {
+                         "name":"jitsiWidth",
+                         "type":"float",
+                         "value":50
+                        }],
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":114.666666666667,
+                 "x":516,
+                 "y":108
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -686,7 +738,7 @@
          "y":0
         }],
  "nextlayerid":68,
- "nextobjectid":27,
+ "nextobjectid":28,
  "orientation":"orthogonal",
  "properties":[
         {
