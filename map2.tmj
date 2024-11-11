@@ -289,14 +289,19 @@
                  "value":false
                 }, 
                 {
-                 "name":"closeTriggerMessage",
+                 "name":"doorVariable",
+                 "type":"string",
+                 "value":"door"
+                }, 
+                {
+                 "name":"openTriggerMessage",
                  "type":"string",
                  "value":"hi"
                 }, 
                 {
-                 "name":"doorVariable",
+                 "name":"tag",
                  "type":"string",
-                 "value":"door"
+                 "value":""
                 }],
          "type":"tilelayer",
          "visible":true,
