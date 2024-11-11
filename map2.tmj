@@ -275,7 +275,7 @@
             0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
          "height":14,
          "id":64,
-         "name":"doorstep",
+         "name":"doorstep_0",
          "opacity":1,
          "properties":[
                 {
@@ -291,7 +291,7 @@
                 {
                  "name":"doorVariable",
                  "type":"string",
-                 "value":"door"
+                 "value":"door_0"
                 }, 
                 {
                  "name":"openTriggerMessage",
@@ -326,7 +326,7 @@
             0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
          "height":14,
          "id":63,
-         "name":"openeddoor",
+         "name":"openeddoor_0",
          "opacity":1,
          "type":"tilelayer",
          "visible":true,
@@ -351,7 +351,7 @@
             0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
          "height":14,
          "id":62,
-         "name":"closeddoor",
+         "name":"closeddoor_0",
          "opacity":1,
          "type":"tilelayer",
          "visible":true,
@@ -455,13 +455,13 @@
                 {
                  "height":0,
                  "id":24,
-                 "name":"door",
+                 "name":"door_0",
                  "point":true,
                  "properties":[
                         {
                          "name":"closeLayer",
                          "type":"string",
-                         "value":"closeddoor"
+                         "value":"closeddoor_0"
                         }, 
                         {
                          "name":"default",
@@ -476,7 +476,7 @@
                         {
                          "name":"openLayer",
                          "type":"string",
-                         "value":"openeddoor"
+                         "value":"openeddoor_0"
                         }, 
                         {
                          "name":"persist",
