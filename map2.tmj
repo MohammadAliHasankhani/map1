@@ -291,7 +291,7 @@
                 {
                  "name":"closeTriggerMessage",
                  "type":"string",
-                 "value":""
+                 "value":"hi"
                 }, 
                 {
                  "name":"doorVariable",
