@@ -85,7 +85,7 @@
                 {
                  "name":"zoom_Margin",
                  "type":"float",
-                 "value":2
+                 "value":5
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -716,7 +716,7 @@
                 {
                  "name":"zoom_Margin",
                  "type":"float",
-                 "value":2
+                 "value":5
                 }],
          "type":"objectgroup",
          "visible":true,
