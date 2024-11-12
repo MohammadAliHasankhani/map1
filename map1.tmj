@@ -629,12 +629,12 @@
                 {
                  "name":"jitsiConfig",
                  "type":"string",
-                 "value":"startWithAudioMuted: true"
+                 "value":"{ \"deeplinking\": { \"disabled\": true} }"
                 }, 
                 {
                  "name":"jitsiInterfaceConfig",
                  "type":"string",
-                 "value":"DEFAULT_BACKGROUND\": \"#fcba03\""
+                 "value":"{ \"DEFAULT_BACKGROUND\": \"#fcba03\" }"
                 }, 
                 {
                  "name":"jitsiNoPrefix",
