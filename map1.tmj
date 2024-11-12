@@ -634,7 +634,7 @@
                 {
                  "name":"jitsiInterfaceConfig",
                  "type":"string",
-                 "value":"DEFAULT_BACKGROUND\": \"#1111\""
+                 "value":"DEFAULT_BACKGROUND\": \"#fcba03\""
                 }, 
                 {
                  "name":"jitsiNoPrefix",
