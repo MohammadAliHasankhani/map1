@@ -85,7 +85,7 @@
                 {
                  "name":"zoom_Margin",
                  "type":"float",
-                 "value":5
+                 "value":2
                 }],
          "type":"tilelayer",
          "visible":true,
